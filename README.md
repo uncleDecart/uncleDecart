@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [eve](https://github.com/lf-edge/eve)
+- 🌱 I’m currently doing MSc in Data Science at [LMU](https://www.lmu.de/en/index.html)
+- 💬 Ask me about Internet of Things, Machine Learning
 <!--
 **uncleDecart/uncleDecart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
